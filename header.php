@@ -1,25 +1,19 @@
-<html>
-<head>
-    <title><?php echo $title; ?></title>
-    <link rel="stylesheet" type="text/css" href="css.css">
-    <style type="text/css">
-    	.header
-    	{
-    		width: 100%;
-    		height: 10%;
-    		background-color: lightgrey;
-    	}
-		.footer
-		{
-    		width: 100%;
-    		height: 10%;
-    		background-color: green;
-    		position: absolute;
-    		bottom: 0%;
-    	}
-    </style>
-</head>
-<body>
-<div class="header">
-	<center><h1 style="color: black;">This is the header.</h1></center>
-</div>
+<html lang="en">
+
+<!-- <div class="container"> -->
+    <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
+      <a href="/index.php" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
+        <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
+        <span class="fs-4">UMBC LUG</span>
+      </a>
+
+      <ul class="nav nav-pills">
+        <li class="nav-item"><a href="index.php" class="nav-link" aria-current="page">Home</a></li>
+        <li class="nav-item"><a href="/about.php" class="nav-link">About</a></li>
+		<li class="nav-item"><a href="#" class="nav-link">Get Involved</a></li>
+        <li class="nav-item"><a href="#" class="nav-link">Installfest</a></li>
+        <li class="nav-item"><a href="#" class="nav-link">Events</a></li>
+        
+      </ul>
+    </header>
+  <!-- </div> -->
