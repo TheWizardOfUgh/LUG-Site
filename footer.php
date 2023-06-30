@@ -1,4 +1,4 @@
-	<!-- <div class="container"> -->
+
 	<footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
 		<p class="col-md-4 mb-0 text-muted">UMBC LUG</p>
 
@@ -15,6 +15,13 @@
 		
 		</ul>
 	</footer>
-	<!-- </div> -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+	<script>
+			$(document).ready(function() {
+				$('li.active').removeClass('active').removeAttr('aria-current');
+				$('a[href="' + location.pathname + '"]').closest('li').addClass('active').attr('aria-current', 'page'); 
+			});
+</script>
 
 </html>

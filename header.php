@@ -1,19 +1,29 @@
-<html lang="en">
+  <html lang="en">
 
-<!-- <div class="container"> -->
-    <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
-      <a href="/index.php" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
-        <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
-        <span class="fs-4">UMBC LUG</span>
+  <head>
+    <link rel="stylesheet" href="./css/bootstrap.css">
+    <link rel="stylesheet" href="./site.css">
+  </head>
+
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-light">
+      <a class="navbar-brand" href="/">
+        <img src="/img/lug.png" alt="Home" class="d-inline-block align-top" style="height:64px;" />
       </a>
 
-      <ul class="nav nav-pills">
-        <li class="nav-item"><a href="index.php" class="nav-link" aria-current="page">Home</a></li>
-        <li class="nav-item"><a href="/about.php" class="nav-link">About</a></li>
-		<li class="nav-item"><a href="#" class="nav-link">Get Involved</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">Installfest</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">Events</a></li>
-        
-      </ul>
-    </header>
-  <!-- </div> -->
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div id="navbarNav" class="navbar-collapse collapse">
+        <ul class="navbar-nav">
+          <li class="nav-item"><a href="/index.php" class="nav-link">Home</a></li>
+          <li class="nav-item"><a href="/about.php" class="nav-link">About</a></li>
+          <li class="nav-item"><a href="/get_involved.php" class="nav-link">Get Involved</a></li>
+          <li class="nav-item"><a href="/installfest.php" class="nav-link">Installfest</a></li>
+          <li class="nav-item"><a href="/events.php" class="nav-link">Events</a></li>
+
+        </ul>
+      </div>
+    </nav>
+  </header>
