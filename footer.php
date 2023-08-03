@@ -1,19 +1,114 @@
-
-	<footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
-		<p class="col-md-4 mb-0 text-muted">UMBC LUG</p>
-
-		<a href="https://getbootstrap.com/" class="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto link-dark text-decoration-none">
-		<svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
-		</a>
-
-		<ul class="nav col-md-4 justify-content-end">
-		<li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Home</a></li>
-		<li class="nav-item"><a href="/about.php" class="nav-link px-2 text-muted">About</a></li>
-		<li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Get Involved</a></li>
-		<li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Installfest</a></li>
-		<li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Events</a></li>
-		
-		</ul>
+	<footer class="container-fluid">
+		<div class="container">
+			<div class="row">
+				<div class="col-12 col-md-4 col-lg-3">
+					<p><strong>Navigate</strong></p>
+					<ul>
+						<!-- site navigation tabs -->
+						
+						<li>
+							<a href="https://ritlug.com/">Home</a>
+						</li>
+						
+						<li>
+							<a href="https://ritlug.com/about/">About</a>
+						</li>
+						
+						<li>
+							<a href="https://ritlug.com/get-involved/">Get Involved</a>
+						</li>
+						
+						<li>
+							<a href="https://ritlug.com/announcements/">Announcements</a>
+						</li>
+						
+						<li>
+							<a href="https://ritlug.com/talks/">Talks</a>
+						</li>
+						
+						<li>
+							<a href="https://wiki.ritlug.com/">Wiki</a>
+						</li>
+						
+						<li>
+							<a href="https://ritlug.com/projects/">Projects</a>
+						</li>
+						
+						<li>
+							<a href="https://ritlug.com/events/">Events</a>
+						</li>
+						
+						<li>
+							<a href="https://campusgroups.rit.edu/student_community?club_id=16071">CampusGroups</a>
+						</li>
+						
+					</ul>
+				</div>
+				<div class="col-12 col-md-4 col-lg-3">
+					<p><strong>UMBC</strong></p>
+					<ul>
+						<!-- RIT footer links -->
+						
+						<li>
+							<a href="https://www.umbc.edu/">University Website</a>
+						</li>
+						
+						<li>
+							<a href="https://www.csee.umbc.edu/">CSEE Website</a>
+						</li>
+						
+						<li>
+							<a href="https://campusgroups.rit.edu/student_community?club_id=16071">CampusGroups</a>
+						</li>
+						
+					</ul>
+				</div>
+				<div class="col-12 col-md-4 col-lg-3">
+					<p><strong>Linux Resources</strong></p>
+					<ul>
+						<!-- linux resources -->
+						
+						<li>
+							<a href="https://wiki.archlinux.org/">ArchWiki</a>
+						</li>
+						
+						<li>
+							<a href="https://kernelnewbies.org/">Kernel Newbies</a>
+						</li>
+						
+						<li>
+							<a href="https://reddit.com/r/linux">Linux Subreddit</a>
+						</li>
+						
+						<li>
+							<a href="https://distrowatch.org/">DistroWatch</a>
+						</li>
+						
+						<li>
+							<a href="https://mirrors.rit.edu/">RIT Linux Mirror</a>
+						</li>
+						
+					</ul>
+				</div>
+				<div class="col-12 col-md-4 col-lg-3">
+					<p><strong>Feeds</strong></p>
+					<ul>
+						<!-- feeds -->
+						
+						<li>
+							<a href="https://ritlug.com/feeds/latest.xml">Announcements</a>
+						</li>
+						
+						<li>
+							<a href="https://ritlug.com/feeds/talks.xml">Talks</a>
+						</li>
+						
+					</ul>
+				</div>
+			</div>
+			
+			</div>
+		</div>
 	</footer>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>

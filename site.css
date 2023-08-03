@@ -1,4 +1,37 @@
+header li{
+    color: white;   
+}
 .jumbotron{
     background-color:#fdb515;
     text-align:center;
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+footer{
+    margin-top: auto;
+}
+
+footer {
+    padding-top: 1.2em;
+    background-color: #000000;
+    color: white;
+
+}
+footer ul {
+    padding-left: 0;
+}
+footer li {
+    list-style: none;
+}
+footer a {
+    color: #a67a05;
+    text-decoration: underline;
+}
+footer a:hover {
+    color: #B3B3FF;
+    text-decoration: none;
 }
