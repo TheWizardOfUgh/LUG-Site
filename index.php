@@ -15,6 +15,11 @@ include "header.php";
         <h1>UMBC Linux Users Group</h1>
         <p>An on campus club dedicated to Linux and open source!</p>
     </div>
+    <article class="container card">
+    <div class="card-body">
+      <h1>Test</h1>
+    </div>
+</article>
   </body>
 
 

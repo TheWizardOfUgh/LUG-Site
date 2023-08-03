@@ -84,10 +84,6 @@
 							<a href="https://distrowatch.org/">DistroWatch</a>
 						</li>
 						
-						<li>
-							<a href="https://mirrors.rit.edu/">RIT Linux Mirror</a>
-						</li>
-						
 					</ul>
 				</div>
 				<div class="col-12 col-md-4 col-lg-3">
