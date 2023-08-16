@@ -8,7 +8,7 @@
   <header>
     <nav class="navbar navbar-expand-lg">
       <a class="navbar-brand" href="/">
-        <img src="/img/lug-white.png" alt="Home" class="d-inline-block align-top" style="height:64px;" />
+        <img src="/img/lug-white.png" alt="Home" class="d-inline-block align-top" style="height:64px;">
       </a>
 
       <button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation" >
