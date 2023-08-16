@@ -131,7 +131,7 @@ include "header.php";
                           <td>Mark Murnane</td>
                         </tr>
                         <tr>
-                          <td>Apr 2015 - Apr 2026</td>
+                          <td>Apr 2015 - Apr 2016</td>
                           <td>Alexander (Sasha) Bauer</td>
                           <td>Dylan Whichard</td>
                           <td>Mark Murnane</td>
