@@ -1,5 +1,3 @@
-  <html lang="en">
-
   <header>
     <nav class="navbar navbar-expand-lg">
       <a class="navbar-brand" href="/">
