@@ -41,10 +41,6 @@
 							<a href="https://www.csee.umbc.edu/">CSEE Website</a>
 						</li>
 						
-						<li>
-							<a href="https://campusgroups.rit.edu/student_community?club_id=16071">CampusGroups</a>
-						</li>
-						
 					</ul>
 				</div>
 				<div class="col-12 col-md-4 col-lg-3">

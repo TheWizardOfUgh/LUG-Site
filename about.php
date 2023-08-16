@@ -17,7 +17,7 @@ include "header.php";
   <article class="card">
     <div class="card-body">
       <h1 class="card-title">About</h1>
-      <p>UMBC Linux Users Group is a student run Linux Users Group at the uniersity of Maryland, Baltimore County. We run bi-weekly meetings about Linux, Free Software, and other alternative opperating systems.</p>
+      <p>UMBC Linux Users Group is a student run Linux Users Group at the University of Maryland, Baltimore County. We run bi-weekly meetings about Linux, Free Software, and other alternative opperating systems.</p>
 
       <p>This semester our meeting format is changing to presentations! We are currently looking for more presenters! If you have an idea for a talk pop in the <a href="https://discord.gg/jgMqPtK2mg">discord</a></p>
 
