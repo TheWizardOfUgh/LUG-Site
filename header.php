@@ -1,10 +1,5 @@
   <html lang="en">
 
-  <head>
-    <link rel="stylesheet" href="./css/bootstrap.css">
-    <link rel="stylesheet" href="./site.css">
-  </head>
-
   <header>
     <nav class="navbar navbar-expand-lg">
       <a class="navbar-brand" href="/">
