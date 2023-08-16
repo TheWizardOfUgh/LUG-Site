@@ -7,41 +7,25 @@
 						<!-- site navigation tabs -->
 						
 						<li>
-							<a href="https://ritlug.com/">Home</a>
+							<a href="/index.php">Home</a>
 						</li>
 						
 						<li>
-							<a href="https://ritlug.com/about/">About</a>
+							<a href="/about.php">About</a>
 						</li>
 						
 						<li>
-							<a href="https://ritlug.com/get-involved/">Get Involved</a>
+							<a href="/get_involved.php">Get Involved</a>
 						</li>
 						
 						<li>
-							<a href="https://ritlug.com/announcements/">Announcements</a>
+							<a href="/installfest.php">Installfest</a>
 						</li>
 						
 						<li>
-							<a href="https://ritlug.com/talks/">Talks</a>
+							<a href="/events.php">Events</a>
 						</li>
-						
-						<li>
-							<a href="https://wiki.ritlug.com/">Wiki</a>
-						</li>
-						
-						<li>
-							<a href="https://ritlug.com/projects/">Projects</a>
-						</li>
-						
-						<li>
-							<a href="https://ritlug.com/events/">Events</a>
-						</li>
-						
-						<li>
-							<a href="https://campusgroups.rit.edu/student_community?club_id=16071">CampusGroups</a>
-						</li>
-						
+
 					</ul>
 				</div>
 				<div class="col-12 col-md-4 col-lg-3">

@@ -15,13 +15,37 @@ include "header.php";
         <h1>UMBC Linux Users Group</h1>
         <p>An on campus club dedicated to Linux and open source!</p>
     </div>
-    <article class="container card">
-    <div class="card-body">
-      <h1>Test</h1>
-    </div>
+  
+</div>
 </article>
   </body>
 
+
+  <section class="container">
+    <h1>Latest News <a href="https://groups.google.com/forum/#!forum/ritlug-announce"><i class="fas fa-envelope icon-orange"></i></a> <a href="/feeds/latest.xml"><i class="fas fa-rss-square icon-orange"></i></a></h1>
+
+    <p><em>
+      For the most up to date announcments join our <a href="https://discord.gg/jgMqPtK2mg">discord</a>! That is where we are the most active.
+    </em></p>
+
+    
+      
+  <article class="card">
+      <div class="card-body">
+        <div class="row">
+          <div class="col-12 col-md-9">
+            <h2>New Website!</h2>
+            <p><em>16 August 2023</em></p>
+            <p>Welcome to the new website (with UMBC colors and mobile support!). More updates are to come as we get closer to the semester about meeting times.</p>
+
+          </div>
+          
+        </div>
+        
+      
+      </div>
+  </article>
+</section>
 
 <?php
 include "footer.php";                
