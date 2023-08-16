@@ -82,8 +82,6 @@
 					</ul>
 				</div>
 			</div>
-			
-			</div>
 		</div>
 	</footer>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -93,6 +91,5 @@
 				$('li.active').removeClass('active').removeAttr('aria-current');
 				$('a[href="' + location.pathname + '"]').closest('li').addClass('active').attr('aria-current', 'page'); 
 			});
-</script>
-
+	</script>
 </html>
