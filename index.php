@@ -52,21 +52,18 @@
     <link rel="stylesheet" href="./site.css">
 </head>
 
-<?php                  
-include "header.php";                 
-?>
-
-  <body>
-    <div class="jumbotron text-center">
-        <h1>UMBC Linux Users Group</h1>
-        <p>An on campus club dedicated to Linux and open source!</p>
-    </div>
-  </body>
 
 
-  <section class="container">
-    <h1>Latest News <a href="https://groups.google.com/forum/#!forum/ritlug-announce"><i class="fas fa-envelope icon-orange"></i></a> <a href="/feeds/latest.xml"><i class="fas fa-rss-square icon-orange"></i></a></h1>
-
+<body>
+	<?php                  
+	include "header.php";                 
+	?>
+	<div class="jumbotron text-center">
+      <h1>UMBC Linux Users Group</h1>
+      <p>An on campus club dedicated to Linux and open source!</p>
+  </div>
+	<section class="container">
+    <h1>Latest News</h1>
     <p><em>
       For the most up to date announcments join our <a href="https://discord.gg/jgMqPtK2mg">discord</a>! That is where we are the most active.
     </em></p>  
@@ -83,6 +80,10 @@ include "header.php";
         </div>
     </article>
   </section>
+</body>
+
+
+  
 
 <?php
 include "footer.php";                
